@@ -2,6 +2,10 @@
 
 Use este arquivo como base para preencher o Play Console.
 
+URL da Politica de Privacidade:
+
+`https://ian03.github.io/control-privacy-policy/`
+
 ## Conteudo Do App
 
 - Contem anuncios: Nao.

@@ -19,7 +19,7 @@ Repositorio exclusivo para hospedar a Politica de Privacidade do aplicativo Cont
 5. Salve.
 
 6. Use esta URL no Google Play Console:
-   `https://SEU_USUARIO.github.io/control-privacy-policy/`
+   `https://ian03.github.io/control-privacy-policy/`
 
 ## Arquivos
 
